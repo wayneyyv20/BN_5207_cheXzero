@@ -14,3 +14,5 @@
    调用 zero_shot.py 获取预测结果。
    调用 eval.py 进行性能分析。
    结果输出：将最终的评估指标汇总并保存为 CSV 文件（例如：checkpoint_epo30_eval.csv）。
+4. run_train.py （模型训练）
+5. run_preprocess.py(h5文件、impression文件生成)
